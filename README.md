@@ -3,8 +3,8 @@ Install the following packages:
 $pip install mediapipe
 $pip install cvzone
 ```
-# For more details:
-Mediapipe: https://github.com/google/mediapipe
+For more details:
+Mediapipe: https://github.com/google/mediapipe <br>
 CVZONE: https://github.com/cvzone/cvzone
 
 # Background Replacement with an Image: 
