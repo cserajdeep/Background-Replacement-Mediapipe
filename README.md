@@ -10,7 +10,7 @@ SolidBG = True    # True-> one color background, otherwise background image[Sele
 ```
 &ast;- Images have been downloaded from google and used only for research/non-comercial use
 
-For more details:
+For more details: <br>
 Mediapipe: https://github.com/google/mediapipe <br>
 CVZONE: https://github.com/cvzone/cvzone
 
